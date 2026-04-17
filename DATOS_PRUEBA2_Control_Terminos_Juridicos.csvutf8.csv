@@ -1,0 +1,103 @@
+﻿HERRAMIENTA DE CONTROL Y VENCIMIENTO DE TÉRMINOS JURÍDICOS;;;;;;;
+Fecha de consulta: 17/04/2026    |    🔴 VENCIDO   🟡 VENCE PRONTO (≤5 días)   🟢 VIGENTE;;;;;;;
+N°;Tipo de Proceso;Radicado / Expediente;Descripción del Término;Fecha Inicio Término;Días (Naturaleza);Fecha de Vencimiento;Estado / Alerta
+1;Acción de Tutela;2024-00001-3;Traslado de la demanda;23/04/2026;10 Hábiles;03/05/2026;✅ VIGENTE (16 días)
+2;Acción de Nulidad;2023-00002-2;Contestación de la demanda;16/03/2026;20 Hábiles;05/04/2026;⚠ VENCIDO (hace 12 días)
+3;Acción Popular;2025-00003-3;Periodo probatorio;11/04/2026;30 Calendario;11/05/2026;✅ VIGENTE (24 días)
+4;Proceso Disciplinario;2022-00004-2;Recurso de reposición;15/04/2026;5 Hábiles;20/04/2026;⏰ VENCE EN 3 DÍAS
+5;Proceso Fiscal;2024-00005-3;Recurso de apelación;25/03/2026;10 Hábiles;04/04/2026;⚠ VENCIDO (hace 13 días)
+6;Recurso de Apelación;2023-00006-5;Ejecutoria de la providencia;30/03/2026;3 Hábiles;02/04/2026;⚠ VENCIDO (hace 15 días)
+7;Proceso Contencioso Adm.;2025-00007-8;Notificación personal;06/04/2026;5 Hábiles;11/04/2026;⚠ VENCIDO (hace 6 días)
+8;Acción de Grupo;2022-00008-8;Presentación de alegatos;20/03/2026;15 Hábiles;04/04/2026;⚠ VENCIDO (hace 13 días)
+9;Proceso Penal;2024-00009-3;Audiencia inicial;30/03/2026;20 Calendario;19/04/2026;⏰ VENCE EN 2 DÍAS
+10;Proceso Laboral;2023-00010-7;Fallo de primera instancia;09/03/2026;30 Hábiles;08/04/2026;⚠ VENCIDO (hace 9 días)
+11;Recurso de Reposición;2025-00011-7;Corrección de demanda;20/04/2026;5 Hábiles;25/04/2026;✅ VIGENTE (8 días)
+12;Proceso Civil;2022-00012-1;Respuesta a tutela;04/04/2026;1 Calendario;05/04/2026;⚠ VENCIDO (hace 12 días)
+13;Acción de Cumplimiento;2024-00013-9;Fallo de tutela;18/04/2026;10 Calendario;28/04/2026;✅ VIGENTE (11 días)
+14;Proceso Sancionatorio;2023-00014-8;Impugnación de tutela;18/04/2026;3 Calendario;21/04/2026;⏰ VENCE EN 4 DÍAS
+15;Recurso de Queja;2025-00015-1;Descargos disciplinarios;31/03/2026;10 Hábiles;10/04/2026;⚠ VENCIDO (hace 7 días)
+16;Acción de Tutela;2022-00016-3;Periodo de investigación previa;24/03/2026;60 Calendario;23/05/2026;✅ VIGENTE (36 días)
+17;Acción de Nulidad;2024-00017-1;Término traslado fiscal;12/04/2026;15 Hábiles;27/04/2026;✅ VIGENTE (10 días)
+18;Acción Popular;2023-00018-6;Caducidad acción popular;12/04/2025;1825 Calendario;11/04/2030;✅ VIGENTE (1455 días)
+19;Proceso Disciplinario;2025-00019-1;Término de prescripción;18/03/2025;1095 Calendario;17/03/2028;✅ VIGENTE (700 días)
+20;Proceso Fiscal;2022-00020-2;Interposición de acción de grupo;15/03/2026;30 Hábiles;14/04/2026;⚠ VENCIDO (hace 3 días)
+21;Recurso de Apelación;2024-00021-1;Traslado de la demanda;20/04/2026;10 Hábiles;30/04/2026;✅ VIGENTE (13 días)
+22;Proceso Contencioso Adm.;2023-00022-4;Contestación de la demanda;13/03/2026;20 Hábiles;02/04/2026;⚠ VENCIDO (hace 15 días)
+23;Acción de Grupo;2025-00023-1;Periodo probatorio;04/03/2026;30 Calendario;03/04/2026;⚠ VENCIDO (hace 14 días)
+24;Proceso Penal;2022-00024-8;Recurso de reposición;08/04/2026;5 Hábiles;13/04/2026;⚠ VENCIDO (hace 4 días)
+25;Proceso Laboral;2024-00025-8;Recurso de apelación;26/04/2026;10 Hábiles;06/05/2026;✅ VIGENTE (19 días)
+26;Recurso de Reposición;2023-00026-2;Ejecutoria de la providencia;15/04/2026;3 Hábiles;18/04/2026;⏰ VENCE EN 1 DÍAS
+27;Proceso Civil;2025-00027-3;Notificación personal;08/04/2026;5 Hábiles;13/04/2026;⚠ VENCIDO (hace 4 días)
+28;Acción de Cumplimiento;2022-00028-1;Presentación de alegatos;03/04/2026;15 Hábiles;18/04/2026;⏰ VENCE EN 1 DÍAS
+29;Proceso Sancionatorio;2024-00029-1;Audiencia inicial;17/04/2026;20 Calendario;07/05/2026;✅ VIGENTE (20 días)
+30;Recurso de Queja;2023-00030-3;Fallo de primera instancia;29/03/2026;30 Hábiles;28/04/2026;✅ VIGENTE (11 días)
+31;Acción de Tutela;2025-00031-7;Corrección de demanda;12/04/2026;5 Hábiles;17/04/2026;⏰ VENCE EN 0 DÍAS
+32;Acción de Nulidad;2022-00032-9;Respuesta a tutela;14/04/2026;1 Calendario;15/04/2026;⚠ VENCIDO (hace 2 días)
+33;Acción Popular;2024-00033-7;Fallo de tutela;09/04/2026;10 Calendario;19/04/2026;⏰ VENCE EN 2 DÍAS
+34;Proceso Disciplinario;2023-00034-3;Impugnación de tutela;02/04/2026;3 Calendario;05/04/2026;⚠ VENCIDO (hace 12 días)
+35;Proceso Fiscal;2025-00035-9;Descargos disciplinarios;20/04/2026;10 Hábiles;30/04/2026;✅ VIGENTE (13 días)
+36;Recurso de Apelación;2022-00036-5;Periodo de investigación previa;16/02/2026;60 Calendario;17/04/2026;⏰ VENCE EN 0 DÍAS
+37;Proceso Contencioso Adm.;2024-00037-8;Término traslado fiscal;12/04/2026;15 Hábiles;27/04/2026;✅ VIGENTE (10 días)
+38;Acción de Grupo;2023-00038-5;Caducidad acción popular;14/05/2021;1825 Calendario;13/05/2026;✅ VIGENTE (26 días)
+39;Proceso Penal;2025-00039-3;Término de prescripción;14/11/2025;1095 Calendario;13/11/2028;✅ VIGENTE (941 días)
+40;Proceso Laboral;2022-00040-9;Interposición de acción de grupo;05/04/2026;30 Hábiles;05/05/2026;✅ VIGENTE (18 días)
+41;Recurso de Reposición;2024-00041-3;Traslado de la demanda;24/03/2026;10 Hábiles;03/04/2026;⚠ VENCIDO (hace 14 días)
+42;Proceso Civil;2023-00042-8;Contestación de la demanda;29/03/2026;20 Hábiles;18/04/2026;⏰ VENCE EN 1 DÍAS
+43;Acción de Cumplimiento;2025-00043-3;Periodo probatorio;22/04/2026;30 Calendario;22/05/2026;✅ VIGENTE (35 días)
+44;Proceso Sancionatorio;2022-00044-3;Recurso de reposición;10/04/2026;5 Hábiles;15/04/2026;⚠ VENCIDO (hace 2 días)
+45;Recurso de Queja;2024-00045-9;Recurso de apelación;06/04/2026;10 Hábiles;16/04/2026;⚠ VENCIDO (hace 1 días)
+46;Acción de Tutela;2023-00046-8;Ejecutoria de la providencia;26/04/2026;3 Hábiles;29/04/2026;✅ VIGENTE (12 días)
+47;Acción de Nulidad;2025-00047-1;Notificación personal;22/04/2026;5 Hábiles;27/04/2026;✅ VIGENTE (10 días)
+48;Acción Popular;2022-00048-7;Presentación de alegatos;21/04/2026;15 Hábiles;06/05/2026;✅ VIGENTE (19 días)
+49;Proceso Disciplinario;2024-00049-2;Audiencia inicial;16/03/2026;20 Calendario;05/04/2026;⚠ VENCIDO (hace 12 días)
+50;Proceso Fiscal;2023-00050-3;Fallo de primera instancia;12/03/2026;30 Hábiles;11/04/2026;⚠ VENCIDO (hace 6 días)
+51;Recurso de Apelación;2025-00051-9;Corrección de demanda;23/04/2026;5 Hábiles;28/04/2026;✅ VIGENTE (11 días)
+52;Proceso Contencioso Adm.;2022-00052-4;Respuesta a tutela;02/04/2026;1 Calendario;03/04/2026;⚠ VENCIDO (hace 14 días)
+53;Acción de Grupo;2024-00053-8;Fallo de tutela;26/03/2026;10 Calendario;05/04/2026;⚠ VENCIDO (hace 12 días)
+54;Proceso Penal;2023-00054-3;Impugnación de tutela;17/04/2026;3 Calendario;20/04/2026;⏰ VENCE EN 3 DÍAS
+55;Proceso Laboral;2025-00055-3;Descargos disciplinarios;27/03/2026;10 Hábiles;06/04/2026;⚠ VENCIDO (hace 11 días)
+56;Recurso de Reposición;2022-00056-2;Periodo de investigación previa;23/03/2026;60 Calendario;22/05/2026;✅ VIGENTE (35 días)
+57;Proceso Civil;2024-00057-2;Término traslado fiscal;28/03/2026;15 Hábiles;12/04/2026;⚠ VENCIDO (hace 5 días)
+58;Acción de Cumplimiento;2023-00058-6;Caducidad acción popular;15/03/2024;1825 Calendario;14/03/2029;✅ VIGENTE (1062 días)
+59;Proceso Sancionatorio;2025-00059-7;Término de prescripción;24/04/2023;1095 Calendario;23/04/2026;✅ VIGENTE (6 días)
+60;Recurso de Queja;2022-00060-2;Interposición de acción de grupo;14/04/2026;30 Hábiles;14/05/2026;✅ VIGENTE (27 días)
+61;Acción de Tutela;2024-00061-3;Traslado de la demanda;02/04/2026;10 Hábiles;12/04/2026;⚠ VENCIDO (hace 5 días)
+62;Acción de Nulidad;2023-00062-2;Contestación de la demanda;27/03/2026;20 Hábiles;16/04/2026;⚠ VENCIDO (hace 1 días)
+63;Acción Popular;2025-00063-6;Periodo probatorio;01/04/2026;30 Calendario;01/05/2026;✅ VIGENTE (14 días)
+64;Proceso Disciplinario;2022-00064-4;Recurso de reposición;19/04/2026;5 Hábiles;24/04/2026;✅ VIGENTE (7 días)
+65;Proceso Fiscal;2024-00065-6;Recurso de apelación;25/04/2026;10 Hábiles;05/05/2026;✅ VIGENTE (18 días)
+66;Recurso de Apelación;2023-00066-3;Ejecutoria de la providencia;24/04/2026;3 Hábiles;27/04/2026;✅ VIGENTE (10 días)
+67;Proceso Contencioso Adm.;2025-00067-7;Notificación personal;07/04/2026;5 Hábiles;12/04/2026;⚠ VENCIDO (hace 5 días)
+68;Acción de Grupo;2022-00068-1;Presentación de alegatos;02/04/2026;15 Hábiles;17/04/2026;⏰ VENCE EN 0 DÍAS
+69;Proceso Penal;2024-00069-5;Audiencia inicial;13/03/2026;20 Calendario;02/04/2026;⚠ VENCIDO (hace 15 días)
+70;Proceso Laboral;2023-00070-8;Fallo de primera instancia;09/04/2026;30 Hábiles;09/05/2026;✅ VIGENTE (22 días)
+71;Recurso de Reposición;2025-00071-7;Corrección de demanda;10/04/2026;5 Hábiles;15/04/2026;⚠ VENCIDO (hace 2 días)
+72;Proceso Civil;2022-00072-4;Respuesta a tutela;21/04/2026;1 Calendario;22/04/2026;⏰ VENCE EN 5 DÍAS
+73;Acción de Cumplimiento;2024-00073-1;Fallo de tutela;26/04/2026;10 Calendario;06/05/2026;✅ VIGENTE (19 días)
+74;Proceso Sancionatorio;2023-00074-4;Impugnación de tutela;17/04/2026;3 Calendario;20/04/2026;⏰ VENCE EN 3 DÍAS
+75;Recurso de Queja;2025-00075-3;Descargos disciplinarios;08/04/2026;10 Hábiles;18/04/2026;⏰ VENCE EN 1 DÍAS
+76;Acción de Tutela;2022-00076-9;Periodo de investigación previa;17/02/2026;60 Calendario;18/04/2026;⏰ VENCE EN 1 DÍAS
+77;Acción de Nulidad;2024-00077-7;Término traslado fiscal;10/04/2026;15 Hábiles;25/04/2026;✅ VIGENTE (8 días)
+78;Acción Popular;2023-00078-4;Caducidad acción popular;17/03/2022;1825 Calendario;16/03/2027;✅ VIGENTE (333 días)
+79;Proceso Disciplinario;2025-00079-7;Término de prescripción;28/10/2023;1095 Calendario;27/10/2026;✅ VIGENTE (193 días)
+80;Proceso Fiscal;2022-00080-2;Interposición de acción de grupo;10/03/2026;30 Hábiles;09/04/2026;⚠ VENCIDO (hace 8 días)
+81;Recurso de Apelación;2024-00081-9;Traslado de la demanda;30/03/2026;10 Hábiles;09/04/2026;⚠ VENCIDO (hace 8 días)
+82;Proceso Contencioso Adm.;2023-00082-1;Contestación de la demanda;24/04/2026;20 Hábiles;14/05/2026;✅ VIGENTE (27 días)
+83;Acción de Grupo;2025-00083-3;Periodo probatorio;07/04/2026;30 Calendario;07/05/2026;✅ VIGENTE (20 días)
+84;Proceso Penal;2022-00084-8;Recurso de reposición;22/04/2026;5 Hábiles;27/04/2026;✅ VIGENTE (10 días)
+85;Proceso Laboral;2024-00085-6;Recurso de apelación;03/04/2026;10 Hábiles;13/04/2026;⚠ VENCIDO (hace 4 días)
+86;Recurso de Reposición;2023-00086-4;Ejecutoria de la providencia;18/04/2026;3 Hábiles;21/04/2026;⏰ VENCE EN 4 DÍAS
+87;Proceso Civil;2025-00087-6;Notificación personal;08/04/2026;5 Hábiles;13/04/2026;⚠ VENCIDO (hace 4 días)
+88;Acción de Cumplimiento;2022-00088-7;Presentación de alegatos;19/04/2026;15 Hábiles;04/05/2026;✅ VIGENTE (17 días)
+89;Proceso Sancionatorio;2024-00089-7;Audiencia inicial;06/04/2026;20 Calendario;26/04/2026;✅ VIGENTE (9 días)
+90;Recurso de Queja;2023-00090-2;Fallo de primera instancia;18/03/2026;30 Hábiles;17/04/2026;⏰ VENCE EN 0 DÍAS
+91;Acción de Tutela;2025-00091-4;Corrección de demanda;31/03/2026;5 Hábiles;05/04/2026;⚠ VENCIDO (hace 12 días)
+92;Acción de Nulidad;2022-00092-8;Respuesta a tutela;26/04/2026;1 Calendario;27/04/2026;✅ VIGENTE (10 días)
+93;Acción Popular;2024-00093-4;Fallo de tutela;18/04/2026;10 Calendario;28/04/2026;✅ VIGENTE (11 días)
+94;Proceso Disciplinario;2023-00094-3;Impugnación de tutela;15/04/2026;3 Calendario;18/04/2026;⏰ VENCE EN 1 DÍAS
+95;Proceso Fiscal;2025-00095-9;Descargos disciplinarios;15/04/2026;10 Hábiles;25/04/2026;✅ VIGENTE (8 días)
+96;Recurso de Apelación;2022-00096-1;Periodo de investigación previa;13/03/2026;60 Calendario;12/05/2026;✅ VIGENTE (25 días)
+97;Proceso Contencioso Adm.;2024-00097-1;Término traslado fiscal;18/04/2026;15 Hábiles;03/05/2026;✅ VIGENTE (16 días)
+98;Acción de Grupo;2023-00098-7;Caducidad acción popular;16/12/2021;1825 Calendario;15/12/2026;✅ VIGENTE (242 días)
+99;Proceso Penal;2025-00099-5;Término de prescripción;26/10/2023;1095 Calendario;25/10/2026;✅ VIGENTE (191 días)
+100;Proceso Laboral;2022-00100-3;Interposición de acción de grupo;26/04/2026;30 Hábiles;26/05/2026;✅ VIGENTE (39 días)
